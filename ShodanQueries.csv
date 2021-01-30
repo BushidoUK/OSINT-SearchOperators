@@ -1,0 +1,25 @@
+﻿Type,Service,Query
+Port,SSH,ssl:”brand name” port:22
+Port,FTP,ssl:”brand name” port:21
+Port,SMTP,ssl:”brand name” port:25
+Port,VNC,"ssl:""brand name"" product:""VNC"" port:”5900”"
+Port,RDP,ssl:”brand name” port:3389
+Port,SMB,ssl:”brand name” port:445
+Database,MongoDB," ssl:”brand name” product:""MongoDB"""
+Database,MS-SQL,ssl:”brand name” product:”MS-SQL” 
+Database,ElasticSearch,"ssl:""brand name"" product:""elastic"""
+Database,Redis,"ssl:”brand name” product:""Redis"" port:""6379"""
+Database,MariaDB,http.title:mariadb
+Email,MS Exchange   ,http.title:exchange
+Virtualisation,Docker Remote API,ssl:”brand name” port:”2375”
+Virtualisation,VMware Horizon,http.title:vmware http.favicon.hash:-991123252
+Cloud,MS SharePoint,http.title:sharepoint
+Web Server,Oracle WebLogic,http.title:weblogic
+Web Server,Apache Tomcat,http.title:tomcat
+Storage,QNAP NAS,ssl:”brand name” “nas-qnap”
+VPN,Citrix,ssl:”brand name” product:”Citrix”
+VPN,Pulse Secure,"ssl:”brand name” product:""Pulse Secure"""
+VPN,Fortinet,http.title:fortigate
+VPN,F5 BIG-IP, ssl:”brand name” http.title:BIG-IP&amp;reg
+SIEM,SolarWinds Orion,http.title:solarwinds http.favicon.hash:-1776962843
+Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
