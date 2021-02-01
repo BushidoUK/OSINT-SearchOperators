@@ -1,7 +1,5 @@
 ﻿Target,Search Operator
 Android package files,intitle:”index of/” “.apk”
-WhatsApp contacts on FB,"site:https://facebook.com ""IT"" (Telephone OR ☏ OR ✆ OR Mobile phone) +""whatsapp"" "
-WhatsApp contacts on LI,"site:https://linkedin.com ""anything"" (Telephone OR ☏ OR ✆ OR Mobile phone) +""whatsapp"""
 Telegram Groups,site:t.me/joinchat/
 Confidential PDFs,"filetype:pdf AND ""confidential"""
 Confidential PowerPoints,"ext:ppt | ext:pptx AND ""confidential"""
@@ -24,3 +22,5 @@ Zoom,site:http://zoom.us inurl:{company name}
 Skype calls,site:broadcast.skype.com {company name}
 Atlassian,site:http://atlassian.net inurl: {company name}
 Open Redirects,site:http://example.com inurl:redir | inurl:redirect | inurl:return | inurl:to
+WhatsApp contacts on FB,"site:https://facebook.com ""IT"" (Telephone OR ☏ OR ✆ OR Mobile phone) +""whatsapp"" "
+WhatsApp contacts on LI,"site:https://linkedin.com ""anything"" (Telephone OR ☏ OR ✆ OR Mobile phone) +""whatsapp"""
