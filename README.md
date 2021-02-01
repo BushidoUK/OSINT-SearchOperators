@@ -1,3 +1,5 @@
-# MyShodanQueries
+# MyQueries
 
-[CSV](https://github.com/BushidoUK/MyShodanQueries/blob/main/ShodanQueries.csv)
+[Shodan](https://github.com/BushidoUK/MyShodanQueries/blob/main/ShodanQueries.csv)
+
+[GoogleDorks]()
