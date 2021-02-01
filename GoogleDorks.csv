@@ -1,7 +1,7 @@
 ﻿Target,Search Operator
 Android package files,intitle:”index of/” “.apk”
 Executable files,intitle:”index of/” “.exe”
-Batch files,intitle:”index of/” “.bat”
+Batch files,intitle:”index of/” ext:bat
 Telegram Groups,site:t.me/joinchat/
 Confidential PDFs,"filetype:pdf AND ""confidential"""
 Confidential PowerPoints,"ext:ppt | ext:pptx AND ""confidential"""
