@@ -14,7 +14,7 @@ Credentials on Trello boards,"inurl:""trello.com"" and intext:""username"" and i
 AWS buckets,site:http://s3.amazonaws.com {company_name}
 Azure Blobs,inurl: blob.core.windows.net intitle:index of
 Google Drives,"site:drive.google.com +""drive/folders"""
-Company Twitter handles,intitle:{name} site:https://twitter.com -inurl:search
+Company Twitter handles,intitle:{company_name} site:https://twitter.com -inurl:search
 Credentials in SQL files,filetype:sql intext:client AND password
 FTP,inurl:ftp -inurl:http -inurl:https {company name}
 WordPress files,site:example.com inurl:wp-content/uploads
