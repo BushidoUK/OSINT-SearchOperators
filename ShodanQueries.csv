@@ -13,6 +13,7 @@ Database,MariaDB,http.title:mariadb
 Email,MS Exchange   ,http.title:exchange
 Virtualisation,Docker Remote API,ssl:”brand name” port:”2375”
 Virtualisation,VMware Horizon,http.title:vmware http.favicon.hash:-991123252
+Virtualisation,VMware vCenter,http.title:"ID_VC_Welcome"
 Cloud,MS SharePoint,http.title:sharepoint
 Web Server,Oracle WebLogic,http.title:weblogic
 Web Server,Apache Tomcat,http.title:tomcat
