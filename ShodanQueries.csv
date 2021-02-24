@@ -8,6 +8,7 @@ Port,SMB,ssl:”brand name” port:445
 Database,MongoDB," ssl:”brand name” product:""MongoDB"""
 Database,MS-SQL,ssl:”brand name” product:”MS-SQL” 
 Database,ElasticSearch,"ssl:""brand name"" product:""elastic"""
+Database,ElasticSearch,http.favicon.hash:1611729805
 Database,Redis,"ssl:”brand name” product:""Redis"" port:""6379"""
 Database,MariaDB,http.title:mariadb
 Email,MS Exchange,http.title:exchange
