@@ -22,7 +22,7 @@ Storage,QNAP NAS,ssl:”brand name” “nas-qnap”
 VPN,Citrix,ssl:”brand name” product:”Citrix”
 VPN,Citrix,http.favicon.hash:-1166125415
 VPN,Pulse Secure,"ssl:”brand name” product:""Pulse Secure"""
-VPN,Pulse Secure,http.component:"pulse secure"
+VPN,Pulse Secure,http.component:pulse secure
 VPN,Fortinet,http.title:fortigate
 VPN,F5 BIG-IP, ssl:”brand name” http.title:BIG-IP
 SIEM,SolarWinds Orion,http.title:solarwinds http.favicon.hash:-1776962843
