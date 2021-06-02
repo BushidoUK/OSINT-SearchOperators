@@ -25,6 +25,6 @@ VPN,Pulse Secure,"ssl:”brand name” product:""Pulse Secure"""
 VPN,Pulse Secure,http.component:pulse secure
 VPN,Fortinet,http.title:fortigate
 VPN,F5 BIG-IP, ssl:”brand name” http.title:BIG-IP
-VPN/FireWall,SonicWall, ssl:”brand name” http.favicon.hash%3A631108382
+VPN/FireWall,SonicWall, ssl:”brand name” http.favicon.hash:631108382
 SIEM,SolarWinds Orion,http.title:solarwinds http.favicon.hash:-1776962843
 Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
