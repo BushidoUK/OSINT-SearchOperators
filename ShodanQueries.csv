@@ -30,7 +30,7 @@ VPN,Pulse Secure,http.component:pulse secure
 VPN,Fortinet,http.title:fortigate
 VPN,F5 BIG-IP, ssl:”brand name” http.title:BIG-IP
 VPN,F5 BIG-IP, ssl:”brand name” http.favicon.hash:878647854
-VPN.Fortinet,http.favicon.hash:945408572
+VPN,Fortinet,http.favicon.hash:945408572
 VPN/FireWall,SonicWall, ssl:”brand name” http.favicon.hash:631108382
 SIEM,SolarWinds Orion,http.title:solarwinds http.favicon.hash:-1776962843
 SIEM,Solarwinds Serv-U FTP Server,http.favicon.hash:812385209
