@@ -41,4 +41,4 @@ CMS,Jenkins,http.favicon.hash:81586312
 Routers,Cisco Meraki,http.favicon.hash:163842882
 Routers,Ubiquiti,http.favicon.hash:-1446794564
 Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
-C&C,Metasploit,http.favicon.hash:"-127886975"
+C&C,Metasploit,http.favicon.hash:-127886975
