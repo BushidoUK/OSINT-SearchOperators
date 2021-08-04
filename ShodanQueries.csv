@@ -42,3 +42,4 @@ Routers,Cisco Meraki,http.favicon.hash:163842882
 Routers,Ubiquiti,http.favicon.hash:-1446794564
 Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
 C&C,Metasploit,http.favicon.hash:-127886975
+C&C,Cobalt Strike,ssl.jarm%3A07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1+port%3A"443"
