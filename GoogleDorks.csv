@@ -4,7 +4,7 @@ Executable files,intitle:”index of/” “.exe”
 Batch files,intitle:”index of/” ext:bat
 Telegram Groups,site:t.me/joinchat/
 AnonFiles,site:anonfiles.com "keyword"
-uFile, site:ufile.io "keyword"
+uFile,site:ufile.io "keyword"
 Confidential PDFs,"filetype:pdf AND ""confidential"""
 Confidential PowerPoints,"ext:ppt | ext:pptx AND ""confidential"""
 PDFs referencing a website,"ext:pdf intext:""example.com"""
