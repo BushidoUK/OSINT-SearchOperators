@@ -40,3 +40,4 @@ Backups,site:example.com ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup
 Login pages,site:example.com inurl:login | inurl:signin | intitle:Login | intitle: signin | inurl:auth
 Subdomains,site:*.example.com
 AWS S3 Buckets,site:.s3.amazonaws.com 'example.com'
+Gov Login Portals,inurl:adminpanel site:gov.*
