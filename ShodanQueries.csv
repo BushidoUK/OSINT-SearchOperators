@@ -12,6 +12,7 @@ Database,ElasticSearch,http.favicon.hash:1611729805
 Database,ElasticSearch,http.favicon.hash:1552860581 
 Database,Redis,"ssl:”brand name” product:""Redis"" port:""6379"""
 Database,MariaDB,http.title:mariadb
+Document Index,Google Search Appliance,http.favicon.hash:-228859905
 Email,MS Exchange,http.title:exchange
 Email,MS Outlook,http.favicon.hash:-1249852061
 Email,MS OWA,http.favicon.hash:442749392
@@ -42,4 +43,5 @@ Routers,Cisco Meraki,http.favicon.hash:163842882
 Routers,Ubiquiti,http.favicon.hash:-1446794564
 Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
 C&C,Metasploit,http.favicon.hash:-127886975
-C&C,Cobalt Strike,ssl.jarm:07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1+port:443
+C&C,Cobalt Strike (experimental),ssl.jarm:07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1+port:443
+C&C,Covenant,http.favicon.hash%3A-737603591
