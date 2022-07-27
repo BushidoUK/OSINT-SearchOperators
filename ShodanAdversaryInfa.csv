@@ -11,7 +11,7 @@ C&C,Sliver,sliver-client
 C&C,Mythic,ssl:Mythic port:7443
 C&C,Mythic,http.favicon.hash:-859291042
 C&C,DeimosC2,http.html_hash:-14029177
-C&C,PoshC2,ssl:"P18055077"
+C&C,PoshC2,ssl:P18055077
 Cracking Tool,Hashcat,hashcat
 Network Pentesting,BurpSuite,BurpSuite
 Windows PowerShell Exploitation,PowerSploit,PowerSploit
