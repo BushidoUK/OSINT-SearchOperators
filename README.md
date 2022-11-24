@@ -1,6 +1,6 @@
 # OSINT Search Operators
 
-[Shodan Appliances](https://github.com/BushidoUK/MyShodanQueries/blob/main/ShodanQueries.csv)
+[Shodan Appliances](https://github.com/BushidoUK/OSINT-SearchOperators/blob/main/ShodanQueriesAppliances.csv)
 
 [Shodan Adversary Infra](https://github.com/BushidoUK/OSINT-SearchOperators/blob/main/ShodanAdversaryInfa.csv)
 
