@@ -5,7 +5,7 @@ C&C,Metasploit Framework (MSF) version 4.4,msf4
 C&C,Cobalt Strike (experimental),ssl.jarm:07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1+port:443
 C&C,Cobalt Strike,product:Cobalt Strike Beacon
 C&C,Cobalt Strike version 4.4,cs4.4
-C&C,Covenant,http.favicon.hash%3A-737603591
+C&C,Covenant,http.favicon.hash:-737603591
 C&C,Covenant,ssl:Covenant http.component:Blazor
 C&C,Sliver,sliver-client
 C&C,Mythic,ssl:Mythic port:7443
