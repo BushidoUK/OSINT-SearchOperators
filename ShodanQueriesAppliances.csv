@@ -42,3 +42,5 @@ CMS,Jenkins,http.favicon.hash:81586312
 Routers,Cisco Meraki,http.favicon.hash:163842882
 Routers,Ubiquiti,http.favicon.hash:-1446794564
 Misc,Vulnerabilities,ssl:”brand name” has_vuln:true
+Misc,Sophos Products,http.favicon.hash:1601194732
+Misc,Ivanti Products,http.favicon.hash:-1439222863
