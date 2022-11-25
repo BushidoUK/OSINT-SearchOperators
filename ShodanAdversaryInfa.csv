@@ -10,7 +10,7 @@ C&C,Covenant,http.favicon.hash:-737603591
 C&C,Covenant,ssl:Covenant http.component:Blazor
 C&C,Sliver,sliver-client
 C&C,Sliver,ssl:multiplayer ssl:operators
-C&C,Sliver,""HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0" -"Server:" -"Pragma:""
+C&C,Sliver,"""HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0" -"Server:" -"Pragma:"""
 C&C,Mythic,ssl:Mythic port:7443
 C&C,Mythic,http.favicon.hash:-859291042
 C&C,PoshC2,ssl:P18055077
