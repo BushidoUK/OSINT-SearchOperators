@@ -1,51 +1,53 @@
-Type,Service,Query
-C&C,Metasploit,http.favicon.hash:-127886975
-C&C,Metasploit,ssl:MetasploitSelfSignedCA
-C&C,Metasploit Framework (MSF) version 4.4,msf4
+## Adversary Infrastructure on Shodan
 
-Cobalt Strike C2
+#### `Metasploit C2`
+http.favicon.hash:-127886975
+ssl:MetasploitSelfSignedCA
+http.html:"msf4"
+
+#### `Cobalt Strike C2`
 ssl.jarm:07d14d16d21d21d07c42d41d00041d24a458a375eef0c576d23a7bab9a9fb1+port:443
 ssl.cert.serial:146473198
 product:"Cobalt Strike Beacon"
 http.html:"cs4.4"
 
-Covenant C2
+#### `Covenant C2`
 http.favicon.hash:-737603591
 ssl:Covenant http.component:Blazor
 
-Sliver C2
+#### `Sliver C2`
 http.html:"sliver-client"
 ssl:multiplayer ssl:operators
 "HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0" -"Server:" -"Pragma:"
 
-Mythic C2
+#### `Mythic C2`
 ssl:Mythic port:7443
 http.favicon.hash:-859291042
 
-PoshC2
+#### `PoshC2`
 ssl:P18055077
 
-Brute Ratel C4
+#### `Brute Ratel C4`
 http.html_hash:-1957161625
 product:"Brute Ratel C4"
 
-Deimos C2
+#### `Deimos C2`
 http.html_hash:-14029177
 
-PANDA C2
+#### `PANDA C2`
 http.html:"PANDA" http.html:"layui"
 
-AcridRain Stealer
+#### `AcridRain Stealer`
 http.html:"AcridRain Stealer"
 
-Hashcat cracking tool
+#### `Hashcat cracking tool`
 http.html:"hashcat"
 
-BurpSuite pentesting tool
+#### `BurpSuite pentesting tool`
 http.html:"BurpSuite"
 
-PowerSploit Windows PowerShell Exploitation
+#### `PowerSploit Windows PowerShell Exploitation`
 http.html:"PowerSploit"
 
-XMRig Monero Cryptominer
+#### `XMRig Monero Cryptominer`
 http.html:"XMRig"
