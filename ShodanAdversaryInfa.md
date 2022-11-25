@@ -40,8 +40,23 @@
 #### `AcridRain Stealer`
 - http.html:"AcridRain Stealer"
 
+#### `Grand Misha (aka Misha Stealer)`
+- http.title:"misha" http.component:"UIKit"
+
+#### `Patriot Stealer`
+- http.favicon.hash:274603478
+
+#### `RAXNET Bitcoin Stealer`
+- http.favicon.hash:-1236243965
+
+#### `Titan Stealer`
+- http.html:"Titan Stealer"
+
 #### `Hashcat cracking tool`
 - http.html:"hashcat"
+
+#### `Collector Stealer`
+- http.html:"Collector Stealer"
 
 #### `BurpSuite pentesting tool`
 - http.html:"BurpSuite"
