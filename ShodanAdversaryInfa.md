@@ -68,3 +68,5 @@
 
 #### `XMRig Monero Cryptominer`
 - http.html:"XMRig"
+- http.favicon.hash:-782317534
+- http.favicon.hash:1088998712
