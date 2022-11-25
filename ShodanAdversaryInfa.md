@@ -45,6 +45,7 @@
 
 #### `Patriot Stealer`
 - http.favicon.hash:274603478
+- http.html:"patriotstealer"
 
 #### `RAXNET Bitcoin Stealer`
 - http.favicon.hash:-1236243965
@@ -57,6 +58,7 @@
 
 #### `Collector Stealer`
 - http.html:"Collector Stealer"
+- http.html:"getmineteam"
 
 #### `BurpSuite pentesting tool`
 - http.html:"BurpSuite"
