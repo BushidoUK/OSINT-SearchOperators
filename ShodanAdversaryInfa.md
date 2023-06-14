@@ -63,7 +63,7 @@
 #### `BurpSuite pentesting tool`
 - http.html:"BurpSuite"
 
-#### 'Mystic Stealer'
+#### `Mystic Stealer`
 - http.html:"Mystic Stealer"
 
 #### `PowerSploit Windows PowerShell Exploitation`
