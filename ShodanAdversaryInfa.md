@@ -18,6 +18,7 @@
 #### `Sliver C2`
 - http.html:"sliver-client"
 - ssl:multiplayer ssl:operators
+- product:"Sliver C2"
 - "HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0" -"Server:" -"Pragma:"
 
 #### `Mythic C2`
