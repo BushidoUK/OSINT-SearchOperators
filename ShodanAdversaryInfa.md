@@ -17,7 +17,7 @@
 
 #### `Sliver C2`
 - http.html:"sliver-client"
-- ssl:multiplayer ssl:operators
+- ssl.cert.issuer.cn:"operators" ssl.cert.subject.cn:"multiplayer"
 - product:"Sliver C2"
 - "HTTP/1.1 404 Not Found" "Cache-Control: no-store, no-cache, must-revalidate" "Content-Length: 0" -"Server:" -"Pragma:"
 
