@@ -77,3 +77,9 @@
 
 #### `Uname Web Panel`
 - http.title:"Unam Web Panel"
+
+#### `ShadowSyndicate`
+- `1c:a4:cb:ac:89:5f:c3:bd:12:41:7b:77:fc:6e:d3:1d`
+- `55:c6:58:70:3c:07:d6:34:4e:32:5e:a2:6c:f9:6c:3b`
+- `dd:d9:ca:54:c1:30:9c:de:57:80:62:cb:a9:65:57:1e`
+- Source: [here](https://www.group-ib.com/blog/new-shadowsyndicate-infrastructure/)
